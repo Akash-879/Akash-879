@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-  <img alt="Aakash Rathod Banner" src="./assets/banner.svg" width="100%">
+  <img alt="Aakash Rathod Banner" src="Akash_rathod_main.png" width="100%">
 </picture>
 
 <br>
